@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Documents/IDE/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2d57b18b64c1e60670c4d18646c8f496c8e9d0bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_32c24a270051db005e5e6dfaf84e1a6c8eb096a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_ef81b0723232a30d3629ef181483cc6ff8b105ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c422c669e4cb33f84ce2dc5e2ba416d3a176a674">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ec2b1957c6727fe05e91fb45715682025e7870f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_91f4b9f874cc3341d4794ce04afe5732e5030f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_b287693f12c8eb8ca711d0b456d6abe6ed1cf482/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_d901260e85a6a1e587f110031bfb29f5c7d1f908/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_ec9dacf90933bfeb9cbb37ad06acbdbac8896c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.easing-library-1.0.1_d3092bd95bed3bb5d5dda8f15020960d5b8efd25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_955f3dd838e3551557c0b73803f070e1da86fbd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_d6f86622f478d05acf55aa8a97ca6eb17d3f3b77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC0/46d23cdc19155c5f0d47ece99ca1c421346c1509/disklrucache-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.0.0-RC0_badeaf732f3b9668c76f744e328986a4a3292a88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_3437988a0eb5e97327f6f5bc640aeed28cab8a5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_d262d063f595e3f7ebcbf5b8df6be57c07c6ec23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_490b9d24dca483d2d5b551aafbb876c80ea031de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3a1f25ec55802632cdb227bc3d4b9d92c72539b">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4cd9ced5d3094f8c7506226f8f55146a877ed873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC0/c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7/gifdecoder-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.0.0-RC0_af2740a2047e512ad0f61094fa526fc703ac2348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.3.2_19af30b25e6ad1fc53f37fd7fd79fe8521ecd068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ozodrukh-CircularReveal-1.1.1_214c6480fddef4b0920fe98fd9ff723dcea6f5fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.hanks/htextview-base/0.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25414547d9cc538232894497877a238ba238c03d">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.hanks-htextview-base-0.1.1_1e18bda95302acc29b1365d3a61e985e3e5c4598/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_890d01acdaa9f925d3c2598a92b00b2313dc642a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ozodrukh-CircularReveal-1.1.1_b37763353ad44e37c34fdd70286416eed385e1e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.androidanimations-library-1.1.3_a24d897f7b42513468b6c98d1ab156dc9aab124b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_c70e156a24f9a63bfef4c9480c3709726371850c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_3209411f0eab6b04710e41e9cd799bbfe05b1ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_858adcfeed6721c5507d579e5627bd5929ec51b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.slider-library-1.1.5_16da0ca6d2b7bbe4945e16ff896bea09a890766b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_5b95ee424671daf8c70e5e65ddbae1e1c6598cab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.github.ViksaaSkool/AwesomeSplash/v1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ViksaaSkool-AwesomeSplash-v1.0.0_13c9d41208762d0b43a246b38b41bdba48f1b03e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.slider-library-1.1.5_6df8b0849081f1f8a2aafa13c7724fb5da66abd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Documents/IDE/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e7e04d5af202b24bb1bc8febc6bb949de906772e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_2f5cabfefc2bbd65be9e36eca2bcd22f65b0c05c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_7db1e018cda4021a0f4944b3599b86001f69f014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.github.jorgecastilloprz/fillableloaders/1.02/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.jorgecastilloprz-fillableloaders-1.02_1dff774c1806aae8cf607659820070ab565b1e49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.easing-library-1.0.1_cb36e94a7838045a912596ac01e9de6221e797ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d9ca9160565e6d19944bc1e4968394e6aba6e8">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fb81cb3d2435e97a9e3c013cc0c027517131f9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.hanks/htextview-rainbow/0.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5dfde438110cafdc0398f78e26e513a4bbc21ae7">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.hanks-htextview-rainbow-0.1.1_76d68387e0f40c907427f99ad6d9a730aa9b700f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_fd0830fbdfa5eed0dc687ab73977115d8cefa483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_9da109ac59a0a22d3e68c0caf7c40c0fed7b4cf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_6a615c0b12812987b0b0121086d9d80673760fa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_462951c55bce585f4afaadc3d99c7a8e72a0258d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.hanks/htextview-base/0.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25414547d9cc538232894497877a238ba238c03d">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.hanks-htextview-base-0.1.1_eb8b72e472753ad97edb3d42accca0ad59d526db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_e3c34e8f3d97499ee1e5358915871b1f19824243/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.github.jorgecastilloprz/fillableloaders/1.02/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.jorgecastilloprz-fillableloaders-1.02_e25d5944966e9f5a46b5fd4113ab412d22f69694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.androidanimations-library-1.1.3_771844dbadc5299fc01f63c9244f0d99567393dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_28a0514f96fefd9d9c79cb7d189527d254308f42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC0/eb86cd1d96acc30dcebf338abaf2c62ca28bf355/glide-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.0.0-RC0_80e29bf1aaecf184a49a98b4271a7bd0360328b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.hanks/htextview-rainbow/0.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5dfde438110cafdc0398f78e26e513a4bbc21ae7">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.hanks-htextview-rainbow-0.1.1_67e939c600e97abfe5dd8431f66ecc36fa1b46d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC0/d5dd0afc50069b7fa0fc12ac85f91efa8df4db67/annotations-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.0.0-RC0_8bc3998d5040a539ed332611996f789b6b99e775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_1301602b5f594ac89f3f445403a6ad73b9258e0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed1fd31335960975d6072e4eb7aceaa6c1837f">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7426528a29e8c8ce16584ec5bfe3257ec1c36d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_d994149a166d2b00bd75b8151689fb25cd1f8d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/exploded-aar/com.github.ViksaaSkool/AwesomeSplash/v1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/mytask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ViksaaSkool-AwesomeSplash-v1.0.0_ad509358300d8faa21d155e42a24506b8a6acc33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/sts.local/zakir.pervez/Desktop/Task/MyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_fb9ef48ea0ef59e6cd2d0c8916b8e43dc19f85a8/classes.dex" />
+    </item>
+
+</items>
